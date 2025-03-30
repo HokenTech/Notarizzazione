@@ -22,3 +22,7 @@ Esegui:
 npm run build
 oppure
 yarn build
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
